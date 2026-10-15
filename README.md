@@ -1,11 +1,14 @@
-# welcome to Math Utility
-### you will find in thí repo the following stuff:
-* a maven project to implement Math Util lib
-* a JUnit src code to demonstrate the Unit Testing TDD & DDT technique
-* a CI script to check and build the project automatically with Github Actions
+[![Math Utility Project (CI included) | © 2026 by PhamPhuc0310](https://github.com/PhamPhuc0310/math-uttil-2035/actions/workflows/ci-script.yml/badge.svg)](https://github.com/PhamPhuc0310/math-uttil-2035/actions/workflows/ci-script.yml)
+# Welcom to math Utility
 
-### Screenshot
-![JUnit with TDD,DDT](https://github.com/PhamPhuc0310/math-uttil-2035/blob/main/srceenshot/DDT%20with%20JUnit.png)
+### You will find in thí repo the following stuff:
+* A Maven project to implement math Util library
+*A JUnit source code to demonstrate the unit Testing, TDD & DDT technique
+*A CI script to check and build the project automatically with Github Actions
 
-#### Conect me via: pahmhoangphuccpag@gmail.com
-##### &#169; 2026 - Tí Thì Lụm
+### Screen-shorts
+![JUnit with TĐ, DDT](https://github.com/anhkiet150905-stack/math-uttil-2035/blob/main/screen-short/Screenshot%202026-10-12%20113224.png)
+
+#### Connect me via: phamhoangphuccpag@gmail.com
+
+##### &#164; 2026 - Tí Thì Lụm 
